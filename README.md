@@ -4,4 +4,4 @@ dokument drugi html.html
 - zato u svim linkovima gdje imate nazive mapa - morate ih maknuti i ostaviti samo ime datoteke na koju se linkate. 
 
 npr: 
-\<img src="slike/1.jpg"/>\ pretvorite u \<img src="1.jpg" />\ s time da treba navesti točan naziv slike. 
+\<img src="slike/1.jpg"/> pretvorite u \<img src="1.jpg" /> s time da treba navesti točan naziv slike. 
